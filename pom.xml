@@ -3,7 +3,7 @@
 	<groupId>com.massisframework</groupId>
 	<artifactId>j-text-utils</artifactId>
 	<packaging>jar</packaging>
-	<version>0.3.4-SNAPSHOT</version>
+	<version>0.3.4</version>
 	<name>Java Text Utilities</name>
 	<url>http://code.google.com/p/j-text-utils</url>
 	<description>
@@ -19,7 +19,7 @@
 		<connection>scm:git:git@github.com:rpax/j-text-utils</connection>
 		<url>scm:git:git@github.com:rpax/j-text-utils</url>
 		<developerConnection>scm:git:git@github.com:rpax/j-text-utils</developerConnection>
-		<tag>HEAD</tag>
+		<tag>j-text-utils-0.3.4</tag>
 	</scm>
 	<distributionManagement>
 		<snapshotRepository>
